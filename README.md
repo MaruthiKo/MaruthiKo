@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @MaruthiKo
-- 👀 I’m interested in new technologies mainly AI and ML
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on python and Java related projects
+- 👀 I’m a Software Engineer at 100Devs
+- 🌱 I’m currently learning to become a Full Stack Web developer 
+- 💞️ I’m looking to collaborate on Web Development related projects on MERN Stack
 - 📫 How to reach me gmail:marurohi@gmail.com 
-Instagram:
-Twitter: https://twitter.com/Maruthi45267797?t=geeUvQWP96CR33IQnFnE0Q&s=09
+- 🐤Twitter: https://twitter.com/Maruthi45267797?t=geeUvQWP96CR33IQnFnE0Q&s=09
 
 
 <!---
