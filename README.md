@@ -24,7 +24,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Maruthi_22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maruthi-konjeti-252715155) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Maruthi18_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maruthi-konjeti-252715155) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Maruthi18_) 
 [![Hashnode](https://img.shields.io/badge/Hashnode-%230077B5.svg?logo=hashnode&logoColor=white)]([https.google.com](https://maruthi1805.hashnode.dev/))
 
 # 💻 Tech Stack:
