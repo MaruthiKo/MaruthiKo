@@ -4,11 +4,11 @@
 <p align="left"> <a href="https://twitter.com/maruthi18_" target="blank"><img src="https://img.shields.io/twitter/follow/maruthi18_?logo=twitter&style=for-the-badge" alt="maruthi18_" /></a> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on **MLH-fellowship-clone**
+🔭 I’m currently working on **MLH-Hack Week**
 
-🌱 I’m currently learning **React, Firebase**
+🌱 I’m currently learning **ML OPS**
 
-👯 I’m looking to collaborate on **projects based on MERN stack**
+👯 I’m looking to collaborate on **projects based on MERN stack / Machine Learning / Data Science**
 
 👨‍💻 All of my projects are available at [my-portfolio-website](https://portfolio-aboutme.netlify.app/)
 
