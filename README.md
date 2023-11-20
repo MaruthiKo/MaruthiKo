@@ -10,7 +10,7 @@ Ever since I was a kid, I've been a tech🧑‍💻 enthusiast and curious about
 * 🧠  I'm learning MLOps & LLMs, Langchain
 * 🤝  I'm open to collaborating on Machine Learning and AI Projects
 * ⚡  I am an Anime and movie Lover. Feel free to contact me if you want an Anime Suggestion😉 or talk about anime
-* 📄 Know about my experiences [my-resume](https://drive.google.com/file/d/1shsxPSWocry_7RmYz1ckdqqgQEOakoYS/view?usp=share_link)
+* 📄 Know about my experiences [my-resume](https://docs.google.com/document/d/12sgsWkELi5vJ-UZyyst0NVLzC5WuGu5_eO2vEB_oK1s/edit)
 
 <a href="https://www.x.com/Maruthi18_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Maruthi18_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
