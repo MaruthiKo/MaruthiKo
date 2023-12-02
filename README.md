@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Maruthi</h1>
-<h3 align="center">A passionate Machine Learning Engineer from India</h3>
+<h3 align="center">A passionate Full Stack AI Engineer from India</h3>
 
-Ever since I was a kid, I've been a tech🧑‍💻 enthusiast and curious about the ways it affects our world. I started programming in Python and it didn't take me long to find my true passion - Machine Learning and AI🤖.
+Ever since I was a kid, I've been a tech🧑‍💻 enthusiast and curious about the ways it affects our world. I started programming in Python and it didn't take me long to find my true passion - Full Stack Machine Learning and AI🤖.
 
 <!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [marurohi@gmail.com](mailto:marurohi@gmail.com)
-* 🧠  I'm learning MLOps & LLMs, Langchain
+* 🧠  I'm learning Full Stack, LLMs & Langchain
+* 🧑‍🎓  I'm currently enrolled in [Harkirat's](https://www.youtube.com/@harkirat1) 100xDevs Cohort 2.0 with a mission to learn MERN stack, System Design & Devops and contribute to Open Source
 * 🤝  I'm open to collaborating on Machine Learning and AI Projects
 * ⚡  I am an Anime and movie Lover. Feel free to contact me if you want an Anime Suggestion😉 or talk about anime
 * 📄 Know about my experiences [my-resume](https://docs.google.com/document/d/12sgsWkELi5vJ-UZyyst0NVLzC5WuGu5_eO2vEB_oK1s/edit)
