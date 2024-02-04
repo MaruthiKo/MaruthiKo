@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maruthi</h1>
 <h3 align="center">A passionate Full Stack AI Engineer from India</h3>
 
-Ever since I was a kid, I've been a tech🧑‍💻 enthusiast and curious about the ways it affects our world. I started programming in Python and it didn't take me long to find my true passion - Full Stack in Machine Learning and AI🤖.
+Ever since I was a kid, I've been a tech enthusiast🧑‍💻 and curious about the ways it affects our world. I started programming in Python and it didn't take me long to find my true passion - Full Stack in Machine Learning and AI🤖.
 
 <!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
