@@ -7,7 +7,7 @@ Ever since I was a kid, I've been a tech enthusiast🧑‍💻 and curious about
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [marurohi@gmail.com](mailto:marurohi@gmail.com)
-* 🧠  I'm learning Full Stack, LLMs & Langchain
+* 🧠  I'm currently working on LLMs, LangChain, Agents
 * 🧑‍🎓  I'm currently enrolled in [Harkirat's](https://www.youtube.com/@harkirat1) 100xDevs Cohort 2.0 with a mission to learn MERN stack, System Design & Devops and contribute to Open Source
 * 🤝  I'm open to collaborating on Machine Learning and AI Projects
 * ⚡  I am an Anime and movie Lover. Feel free to contact me if you want an Anime Suggestion😉 or talk about anime
