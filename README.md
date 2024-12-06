@@ -7,11 +7,11 @@ Ever since I was a kid, I've been a tech enthusiast🧑‍💻 and curious about
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [marurohi@gmail.com](mailto:marurohi@gmail.com)
-* 🧠  I'm currently working on LLMs, LangChain, Agents
-* 🧑‍🎓  I'm currently enrolled in [Harkirat's](https://www.youtube.com/@harkirat1) 100xDevs Cohort 2.0 with a mission to learn MERN stack, System Design & Devops and contribute to Open Source
+* 🧠  I'm currently working on building an LLM Based Recommendation System [Inspiration](https://github.com/decodingml/hands-on-personalized-recommender)
+* 🧑‍🎓  I'm currently working as an AI Engineer Intern at [OnFinance](https://www.onfinance.ai/)
 * 🤝  I'm open to collaborating on Machine Learning and AI Projects
 * ⚡  I am an Anime and movie Lover. Feel free to contact me if you want an Anime Suggestion😉 or talk about anime
-* 📄 Know about my experiences [my-resume](https://docs.google.com/document/d/12sgsWkELi5vJ-UZyyst0NVLzC5WuGu5_eO2vEB_oK1s/edit)
+* 📄 Know about my experiences [my-resume](https://drive.google.com/file/d/17DFRiaPn2qW33AxNwcmcMtiItGH2grjt/view?usp=sharing)
 
 <a href="https://www.x.com/Maruthi18_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Maruthi18_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
