@@ -7,7 +7,7 @@ Ever since I was a kid, I've been a tech enthusiast🧑‍💻 and curious about
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [marurohi@gmail.com](mailto:marurohi@gmail.com)
-* 🧠  I'm currently working on building an LLM Based Recommendation System [Inspiration](https://github.com/decodingml/hands-on-personalized-recommender)
+* 🧠  I'm currently working on building an LLM Based Recommendation System: -> [Inspiration](https://github.com/decodingml/hands-on-personalized-recommender)
 * 🧑‍🎓  I'm currently working as an AI Engineer Intern at [OnFinance](https://www.onfinance.ai/)
 * 🤝  I'm open to collaborating on Machine Learning and AI Projects
 * ⚡  I am an Anime and movie Lover. Feel free to contact me if you want an Anime Suggestion😉 or talk about anime
